@@ -1,0 +1,22 @@
+* {
+    font-family: DM Sans, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: green;
+    padding: 20px;;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.price-form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
